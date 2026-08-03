@@ -1,0 +1,17 @@
+2026-08-03 12:51:55 - AritchmeticApp - DEBUG - Subtracting 15 - 10 = 5
+2026-08-03 12:51:55 - AritchmeticApp - DEBUG - Multiplying 10 - 20 = 200
+2026-08-03 12:51:55 - AritchmeticApp - DEBUG - Dividing 20 - 10 = 2.0
+2026-08-03 12:53:22 - AritchmeticApp - DEBUG - Subtracting 15 - 10 = 5
+2026-08-03 12:53:22 - AritchmeticApp - DEBUG - Multiplying 10 - 20 = 200
+2026-08-03 12:53:22 - AritchmeticApp - DEBUG - Dividing 20 - 10 = 2.0
+2026-08-03 12:53:38 - AritchmeticApp - DEBUG - Subtracting 15 - 10 = 5
+2026-08-03 12:53:38 - AritchmeticApp - DEBUG - Multiplying 10 - 20 = 200
+2026-08-03 12:53:38 - AritchmeticApp - DEBUG - Dividing 20 - 10 = 2.0
+2026-08-03 12:54:30 - AritchmeticApp - DEBUG - adding 10 + 15,25
+2026-08-03 12:54:30 - AritchmeticApp - DEBUG - Subtracting 15 - 10 = 5
+2026-08-03 12:54:30 - AritchmeticApp - DEBUG - Multiplying 10 - 20 = 200
+2026-08-03 12:54:30 - AritchmeticApp - DEBUG - Dividing 20 - 10 = 2.0
+2026-08-03 12:55:26 - AritchmeticApp - DEBUG - adding 10 + 15,25
+2026-08-03 12:55:26 - AritchmeticApp - DEBUG - Subtracting 15 - 10 = 5
+2026-08-03 12:55:26 - AritchmeticApp - DEBUG - Multiplying 10 - 20 = 200
+2026-08-03 12:55:26 - AritchmeticApp - ERROR - division by zero error
